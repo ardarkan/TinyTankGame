@@ -1,0 +1,14 @@
+﻿  oyun1.c
+c:\users\samed\source\repos\tank\tank\oyun1.c(41): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\samed\source\repos\tank\tank\oyun1.c(41): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\samed\source\repos\tank\tank\oyun1.c(63): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\samed\source\repos\tank\tank\oyun1.c(63): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\samed\source\repos\tank\tank\oyun1.c(68): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\samed\source\repos\tank\tank\oyun1.c(68): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\samed\source\repos\tank\tank\oyun1.c(75): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\samed\source\repos\tank\tank\oyun1.c(75): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\samed\source\repos\tank\tank\oyun1.c(194): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\samed\source\repos\tank\tank\oyun1.c(194): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\samed\source\repos\tank\tank\oyun1.c(39): warning C4047: 'başlatılıyor': 'bool', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+  LINK : C:\Users\Samed\source\repos\tank\Debug\tank.exe bulunamadı veya son artımlı bağlantı tarafından oluşturulmadı; tam bağlantı gerçekleştiriliyor
+  tank.vcxproj -> C:\Users\Samed\source\repos\tank\Debug\tank.exe
